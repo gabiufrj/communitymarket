@@ -1,0 +1,15 @@
+{
+  "name": "communitymarket",
+  "version": "1.0.0",
+  "description": "A simple project to check my market history at steam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Pires da Silva (gabiufrj)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.60.0"
+  }
+}
