@@ -1,0 +1,21 @@
+Finished reading file E:\Projetos\communitymarket/resources/raw/my-trade-history-spool-2.txt
+this file had: 100 transactions.
+
+Finished reading file E:\Projetos\communitymarket/resources/raw/my-trade-history-spool-3.txt
+[SyntaxError: Unexpected token ]
+Finished reading file E:\Projetos\communitymarket/resources/raw/my-trade-history-spool.txt
+this file had: 200 transactions.
+
+
+
+Chroma 2 Case - {"count":118,"gain":23.410000000000007,"loss":14.180000000000003,"sold":30,"bought":39,"networth":9.229999999999995,"listed":49}
+Inscribed Fin King's Charm - {"count":6,"gain":3.28,"loss":2.96,"sold":2,"bought":2,"networth":0.31999999999999984,"listed":2}
+Falchion Case - {"count":170,"gain":15.66,"loss":23.179999999999996,"sold":20,"bought":75,"networth":-7.520000000000001,"listed":75}
+Operation Breakout Weapon Case - {"count":2,"gain":0.03,"loss":0,"sold":1,"bought":0,"networth":0.03,"listed":1}
+Little Blink Dagger - {"count":1,"gain":0,"loss":4.49,"sold":0,"bought":1,"networth":-4.49,"listed":0}
+Bloodstained Britches - {"count":2,"gain":0,"loss":29.049999999999997,"sold":0,"bought":2,"networth":-29.049999999999997,"listed":0}
+Voidhammer - {"count":1,"gain":0,"loss":0,"sold":0,"bought":0,"networth":0,"listed":1}
+
+Total networth: R$-31.480000000000004
+Items traded: 7
+Transactions count: 300
